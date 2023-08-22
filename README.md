@@ -1,6 +1,6 @@
 # Clothing Categorization
 
-Review the code [here](main.ipynb).
+Review the code [here](main.ipynb).\
 View the full report [here](report.pdf).
 
 Predicting the occasions that clothing items are
