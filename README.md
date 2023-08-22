@@ -14,4 +14,5 @@ framework for what basic estimation methods
 should look like in the world of Recommender
 Systems.
 
-Review the code [here](main.ipynb) or view the full report [here](report.pdf).
+Review the code [here](main.ipynb).
+View the full report [here](report.pdf).
